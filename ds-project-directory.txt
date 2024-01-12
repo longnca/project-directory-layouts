@@ -16,6 +16,10 @@
         /figures            # Generated graphics and figures
         /results            # Final analysis results and summaries
     /deploy                 # Deployment scripts or configurations
+    /assets                 # For storing images, icons, and other media used in the application
+        /images             # images in png or jpg formats 
+        /diagrams           # system architecture diagrams, sequence diagrams, schema diagrams, etc.
+        /gifs               # GIFs    
     README.md               # Overview and instructions
     requirements.txt        # Python dependencies
     .gitignore              # Use to exclude files from being tracked by Git (e.g., large data files, sensitive data, system-specific files)

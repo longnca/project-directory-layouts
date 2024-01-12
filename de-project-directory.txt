@@ -14,6 +14,10 @@
     /tests                 # (Automated) Tests for the pipelines and dashboard
     /docs                  # Documentation of the ETL process and dashboard
     /config                 # Configuration files and environment variables
+    /assets                 # For storing images, icons, and other media used in the application
+        /images             # images in png or jpg formats 
+        /diagrams           # system architecture diagrams, sequence diagrams, schema diagrams, etc.
+        /gifs               # GIFs    
     README.md               # Project overview and guidelines
     requirements.txt        # Project dependencies
     .gitignore              # Use to exclude files from being tracked by Git (e.g., large data files, sensitive data, system-specific files)
