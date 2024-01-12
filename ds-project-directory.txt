@@ -2,17 +2,20 @@
     /data
         /raw                # Unprocessed data
         /processed          # Data ready for analysis or modeling
-    /notebooks             # Jupyter notebooks for exploration and presentation
+    /notebooks              # Jupyter notebooks for exploration and presentation
     /src
         /preprocessing      # Data cleaning and preprocessing scripts
-        /models             # Model definitions and training scripts
+        /features           # Feature engineering scripts
+        /models             # ML Models, definitions and training scripts
         /evaluation         # Scripts for model evaluation and testing
-    /tests                 # Unit tests and integration tests
-    /models                # Trained model files, serialization
+        /visualization      # Visualization scripts and utilities        
+    /tests                  # Unit tests and integration tests
+    /docs                  # Project documentation    
+    /models                 # Trained model files, serialization, and model architecture
     /reports
         /figures            # Generated graphics and figures
         /results            # Final analysis results and summaries
-    /deploy                # Deployment scripts or configurations
-    README.md
+    /deploy                 # Deployment scripts or configurations
+    README.md               # Overview and instructions
     requirements.txt        # Python dependencies
-    .gitignore
+    .gitignore              # Use to exclude files from being tracked by Git (e.g., sensitive data, system-specific files)

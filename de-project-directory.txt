@@ -5,14 +5,15 @@
         /load               # Scripts for loading data into the destination
     /data
         /raw                # Raw data collected from sources
-        /intermediate       # Intermediate data formats after transformation
+        /interrim           # Intermediate data formats after transformation
         /final              # Final structured data used for visualization
     /src
+        /api               # For any API interactions        
         /dashboard          # Source code for the visualization dashboard
         /utils              # Utility scripts and helper functions
-    /tests                 # Automated tests for the pipelines and dashboard
+    /tests                 # (Automated) Tests for the pipelines and dashboard
     /docs                  # Documentation of the ETL process and dashboard
-    /config                # Configuration files and environment variables
-    README.md
-    requirements.txt
-    .gitignore
+    /config                 # Configuration files and environment variables
+    README.md               # Project overview and guidelines
+    requirements.txt        # Project dependencies
+    .gitignore              # Use to exclude files from being tracked by Git (e.g., sensitive data, system-specific files)
