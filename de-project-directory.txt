@@ -1,0 +1,18 @@
+/de-project-name
+    /pipelines
+        /extract            # Scripts for data extraction
+        /transform          # Data transformation scripts
+        /load               # Scripts for loading data into the destination
+    /data
+        /raw                # Raw data collected from sources
+        /intermediate       # Intermediate data formats after transformation
+        /final              # Final structured data used for visualization
+    /src
+        /dashboard          # Source code for the visualization dashboard
+        /utils              # Utility scripts and helper functions
+    /tests                 # Automated tests for the pipelines and dashboard
+    /docs                  # Documentation of the ETL process and dashboard
+    /config                # Configuration files and environment variables
+    README.md
+    requirements.txt
+    .gitignore
