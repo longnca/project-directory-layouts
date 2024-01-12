@@ -1,4 +1,4 @@
-/ml-project-name
+/ds-project-name
     /data
         /raw                # Unprocessed data
         /processed          # Data ready for analysis or modeling
