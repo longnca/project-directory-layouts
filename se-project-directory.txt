@@ -19,4 +19,4 @@
     requirements.txt       # Dependencies for backend
     .env.example          # Example env file    
     package.json           # Dependencies for frontend (if using Node.js)
-    .gitignore              # Use to exclude files from being tracked by Git (e.g., sensitive data, system-specific files)
+    .gitignore              # Use to exclude files from being tracked by Git (e.g., large data files, sensitive data, system-specific files)

@@ -18,4 +18,4 @@
     /deploy                 # Deployment scripts or configurations
     README.md               # Overview and instructions
     requirements.txt        # Python dependencies
-    .gitignore              # Use to exclude files from being tracked by Git (e.g., sensitive data, system-specific files)
+    .gitignore              # Use to exclude files from being tracked by Git (e.g., large data files, sensitive data, system-specific files)

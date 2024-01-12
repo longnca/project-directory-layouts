@@ -16,4 +16,4 @@
     /config                 # Configuration files and environment variables
     README.md               # Project overview and guidelines
     requirements.txt        # Project dependencies
-    .gitignore              # Use to exclude files from being tracked by Git (e.g., sensitive data, system-specific files)
+    .gitignore              # Use to exclude files from being tracked by Git (e.g., large data files, sensitive data, system-specific files)
