@@ -10,4 +10,5 @@ I found some good resoursces related to project directory layouts as follows.
   - Data is immutable. (i.e. Do *not* edit the raw data!)
   - Notebooks are for exploration and communication.
   - Build from the environment up.
-  - Keep secrets and configuration out of version control (shhh! :speak_no_evil:)
+  - Keep secrets and configuration out of version control (shhh! :speak_no_evil:).
+
