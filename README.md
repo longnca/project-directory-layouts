@@ -6,4 +6,8 @@ This repo is to show structured directory layouts for three types of projects. T
 
 I found some good resoursces related to project directory layouts as follows.
 
-- [Cookiecutter Data Science](https://drivendata.github.io/cookiecutter-data-science/): A quick and simple way to generate a layout for data science projects. Read the "Opinions" section for good tips and advice.
+- [Cookiecutter Data Science](https://drivendata.github.io/cookiecutter-data-science/): A quick and simple way to generate a layout for data science projects. Read the "Opinions" section for good tips and advice such as:
+  - Data is immutable. (i.e. Do *not* edit the raw data!)
+  - Notebooks are for exploration and communication.
+  - Build from the environment up.
+  - Keep secrets and configuration out of version control (shhh! :speak_no_evil:)
