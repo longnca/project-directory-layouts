@@ -43,7 +43,7 @@ Instructions on running automated tests.
 
 ## Contributions
 
-I welcome contributions, feedback, and suggestions! Please feel free to fork the project, open a pull request, open an issue, or send me a [message](#contact) with your ideas.
+I welcome contributions, feedback, and suggestions! Please feel free to fork the project, open pull requests or issues, or contact me with your ideas.
 
 ## Authors and Acknowledgments
 
