@@ -14,17 +14,22 @@ Detailed setup instructions:
 
 List of technologies used (e.g., React, Express.js, MongoDB).
 
+- Backend
+- Frontend
+- Server/Database
+
 ## Features
 
 Description of key features of the application.
 
 ## Live Demo
 
-Check out the live version of my portfolio website here
+Check out the live version of my [app/project] here: [*placeholder*].
 
 ## Usage
 
 How to use the application:
+
 - Starting the server and client
 - Navigating through the application
 
@@ -36,11 +41,11 @@ How to use the application:
 
 Instructions on running automated tests.
 
-## Contributing
+## Contributions
 
-How to contribute to the project.
+I welcome contributions, feedback, and suggestions! Please feel free to fork the project, open a pull request, open an issue, or send me a [message](#contact) with your ideas.
 
-## Authors and Acknowledgment
+## Authors and Acknowledgments
 
 List of team members and contributors.
 
@@ -48,13 +53,13 @@ List of team members and contributors.
 
 Details about the project's licensing.
 
-## Contact Information
+## Contact
 
 Contact details for support or collaboration.
 
 ## Notes:
 ### Visuals: 
 
-- While the actual files should be stored in **/assets**, you would reference them in your README.md or other markdown documents.
+- While the actual files should be stored in **/images** or **/assets**, you would reference them in your README.md or other markdown documents.
 - Example Markdown Syntax to Include an Image:
 - `![Alt text for the image](/assets/images/screenshot.png)`
