@@ -30,6 +30,7 @@ Check out the live version of my [app/project] here: [*placeholder*].
 
 How to use the application:
 
+- (Optional) Fork or clone the repository to your local machine.
 - Starting the server and client
 - Navigating through the application
 
